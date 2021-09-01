@@ -1,4 +1,4 @@
-# QuickCodeBit
+# QuickCodeBits
 
 #Created for Future reference & practice.
 
