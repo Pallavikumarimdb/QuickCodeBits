@@ -1,11 +1,17 @@
+
+// QUESTION: HackerRank Day-6
+
+
+
+
 import java.util.Scanner;
 
 public class IndexedChar {
 
+
     int numberOfArrays;
     String ArrayFromUser;
 // Created two instance variable
-
     Scanner Input = new Scanner(System.in);
 // Scanner class with Object "Input"
 
@@ -75,7 +81,7 @@ public class IndexedChar {
     public static void main(String[] args) {
 
 // Created a str object in Solution class to access method inside class
-        IndexedChar str=new IndexedChar();
+         IndexedChar str=new IndexedChar();
         str. PrintTheOutput();
 // called "PrintTheOutput" method
 
