@@ -1,5 +1,7 @@
 
-// QUESTION: HackerRank Day-6
+/*  <============== QUESTION: HackerRank Day-6 ==============>
+Print even-indexed and odd-indexed characters of a String...
+*/
 
 
 
